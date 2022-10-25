@@ -1,1 +1,2 @@
 This file is called bar. Why is it called bar? dunno
+Bar must change. Don't ask me why, but it must.
